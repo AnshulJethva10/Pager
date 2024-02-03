@@ -6,7 +6,9 @@ This project utilizes NodeMCU to create a wireless pager system. The NodeMCU mic
 
 ## Circuit Diagram
 
-![Circuit Diagram](assets/circuit/circuit_diagram.png)
+![Circuit Diagram-1](assets/circuit/circuit_1.png)
+![Circuit Diagram-2](assets/circuit/circuit_2.png)
+
 
 The circuit consists of the following components:
 
@@ -40,7 +42,10 @@ Follow these steps to set up the NodeMCU Pager Project:
 
 ## Final Project Photo
 
-![Final Project Photo](assets/final/project_photo.png)
+![Final Project Photo-1](assets/final/project-photo-1.jpeg)
+![Final Project Photo-2](assets/final/project_photo.jpeg)
+![Final Project Video](assets/final/project_video.mp4)
+
 
 This image showcases the completed NodeMCU Pager project with all components assembled and operational.
 
