@@ -43,7 +43,6 @@ Follow these steps to set up the NodeMCU Pager Project:
 ## Final Project Photo
 <p align="center">
   <img src="/assets/final/project-photo-1.jpeg" alt="Final Photo-1" width="300">
-  <img src="/assets/final/project_photo.jpeg" alt="Final Photo-2" width="300" style="transform: rotate(180deg);>
 </p>
 
 
