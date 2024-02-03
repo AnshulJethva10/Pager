@@ -42,7 +42,7 @@ Follow these steps to set up the NodeMCU Pager Project:
 
 ## Final Project Photo
 <p align="center">
-  <img src="/assets/final/project-photo-1.jpeg" alt="Final Photo-1" width="300">
+  <img src="/assets/final/project-photo-1.jpeg" alt="Final Photo-1" width="500">
 </p>
 
 
@@ -57,9 +57,5 @@ This image showcases the completed NodeMCU Pager project with all components ass
 ## License
 
 This project is licensed under the [MIT License](LICENSE.md) - see the [LICENSE.md](LICENSE.md) file for details.
-
-## Acknowledgments
-
-- Thanks to the NodeMCU community for their valuable resources and support.
 
 Feel free to contribute to the project or provide feedback!
