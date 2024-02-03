@@ -6,10 +6,10 @@ This project utilizes NodeMCU to create a wireless pager system. The NodeMCU mic
 
 ## Circuit Diagram
 
-![Circuit Diagram-1](assets/circuit/circuit_1.png)
-![Circuit Diagram-2](assets/circuit/circuit_2.png)
-
-
+<p align="center">
+  <img src="/assets/circuit/circuit_1.png" alt="Circuit Diagram-1" width="150">
+  <img src="/assets/circuit/circuit_2.png" alt="Circuit Diagram-2" width="150">
+</p>
 The circuit consists of the following components:
 
 - NodeMCU (ESP8266) microcontroller
@@ -41,10 +41,11 @@ Follow these steps to set up the NodeMCU Pager Project:
    - Verify that the LED lights up and any configured notification is triggered.
 
 ## Final Project Photo
-
-![Final Project Photo-1](assets/final/project-photo-1.jpeg)
-![Final Project Photo-2](assets/final/project_photo.jpeg)
-![Final Project Video](assets/final/project_video.mp4)
+<p align="center">
+  <img src="/assets/final/project-photo-1.jpeg" alt="Home Screen" width="150">
+  <img src="/assets/final/project-photo.jpeg" alt="Question Screen" width="150">
+  <img src="/screenshots/screenshot3.png.jpeg" alt="Result Screen" width="150">
+</p>
 
 
 This image showcases the completed NodeMCU Pager project with all components assembled and operational.
