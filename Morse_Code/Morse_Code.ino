@@ -1,7 +1,7 @@
 #include <ESP8266WiFi.h>
 
-const char* ssid = "10";
-const char* password = "Anshul1828";
+const char* ssid = "";
+const char* password = "";
 
 const int dotButtonPin = D3; // Connect the dot button to this pin
 const int dashButtonPin = D4; // Connect the dash button to this pin
